@@ -46,6 +46,6 @@
 
 ---
 
-> 🕶️ “El código es el lenguaje del submundo. Lo que construyes puede proteger… o destruir.”
+> 🕶️ “error”
 
 
