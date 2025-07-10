@@ -21,7 +21,7 @@
 
 ---
 
-### 🧪 Proyectos destacados
+### 🧪 Proyectos en Desarollo
 
 - 🛡️ [`RepoGuardian`](https://github.com/edemhost/repoguardian): Bot que analiza repositorios en GitHub para detectar posibles amenazas, secretos expuestos y malas prácticas
 - 🤖 [`ExposedBot`](https://github.com/edemhost/exposedbot): Bot de Discord que expone usuarios con comandos automáticos, funciones de staff y moderación
