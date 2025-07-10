@@ -23,9 +23,9 @@
 
 ### 🧪 Proyectos en Desarollo
 
+- 🔍 [`SocialStalker`](https://github.com/edemhost/socialstalker): Herramienta OSINT para buscar usuarios en redes sociales — uso exclusivo by edemhost
 - 🛡️ [`RepoGuardian`](https://github.com/edemhost/repoguardian): Bot que analiza repositorios en GitHub para detectar posibles amenazas, secretos expuestos y malas prácticas
 - 🤖 [`ExposedBot`](https://github.com/edemhost/exposedbot): Bot de Discord que expone usuarios con comandos automáticos, funciones de staff y moderación
-- 🔍 [`SocialStalker`](https://github.com/edemhost/socialstalker): Herramienta OSINT para buscar usuarios en redes sociales — uso exclusivo by edemhost
 ---
 
 ### 💻 Stack Técnico
