@@ -18,13 +18,13 @@
 
 ### ⚔️ Sobre mí
 
-- 🧠 Pentester en crecimiento con foco en seguridad ofensiva y automatización
-- 💻 Desarrollador de herramientas open-source para hardening, análisis y bots
-- 🔐 Amante de la privacidad, el anonimato y la eficiencia
+- 🧠 pentester en crecimiento con foco en seguridad ofensiva y automatización
+- 💻 desarrollador de herramientas open-source para hardening, análisis y bots
+- 🔐 lock coding
 
 ---
 
-### 🧪 Proyectos destacados
+### 🧪 Proyectos en Desarollo
 
 - 🛡️ [`RepoGuardian`](https://github.com/edemhost/repoguardian): Bot que analiza repositorios en GitHub para detectar posibles amenazas, secretos expuestos y malas prácticas
 - 🤖 [`ExposedBot`](https://github.com/edemhost/exposedbot): Bot de Discord que expone usuarios con comandos automáticos, funciones de staff y moderación
