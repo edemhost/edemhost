@@ -9,12 +9,11 @@
 </pre>
 </p>
 
-• They fear the edemhost!
 
+• They fear the edemhost!  
 • edemhost @github
 
-
-- 🧰 Software Automation.
+- 🧰 Software Automation.  
 - 🕸️ Learning Web development.
 
 ---
@@ -25,28 +24,26 @@
 
 ---
 
-### 🧪 Proyectos destacados
+### 🚀 Proyectos destacados
 
 - 🛡️ [`RepoGuardian`](https://github.com/edemhost/repoguardian): Analizador de seguridad para repositorios GitHub (detección de secretos, configuraciones inseguras y más)
-- 🤖 [`ExposedBot`](https://github.com/edemhost/exposedbot): Bot de Discord con comandos personalizados para exposición de usuarios y herramientas de staff
+
+- 😈 [`ExposedBot`](https://github.com/edemhost/exposedbot): Bot de Discord con comandos personalizados para exposición de usuarios y herramientas de staff
 
 ---
 
-### 💻 Stack Técnico
+### 🧠 Stack Técnico
 
-- Lenguajes: `Python`, `Bash`, `PowerShell`, `JavaScript`
-- Seguridad: `Nmap`, `Wireshark`, `Burp Suite`, `Metasploit`
+- Lenguajes: `Python`, `Bash`, `PowerShell`, `JavaScript`  
+- Seguridad: `Nmap`, `Wireshark`, `Burp Suite`, `Metasploit`  
 - Automatización: `Tkinter`, `Discord.py`, `Docker`, `Regex`, `Git`
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edemhost&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edemhost&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=edemhost&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edemhost&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
