@@ -1,5 +1,3 @@
-<!-- README estilo h4xxe para edemhost -->
-
 <p align="center">
 <pre>
 ███████╗██████╗ ███████╗███╗   ███╗██╗  ██╗ ██████╗ ███████╗████████╗
@@ -11,31 +9,34 @@
 </pre>
 </p>
 
-<h1 align="center">👾 edemhost | Pentester & Dev</h1>
-<p align="center"><i>“Code. Exploit. Defend.”</i></p>
+• They fear the edemhost!
+
+• edemhost @github
+
+
+- 🧰 Software Automation.
+- 🕸️ Learning Web development.
 
 ---
 
-### ⚔️ Sobre mí
+### 👾 edemhost | Pentester & Dev
 
-- 🧠 pentester en crecimiento con foco en seguridad ofensiva y automatización
-- 💻 desarrollador de herramientas open-source para hardening, análisis y bots
-- 🔐 lock coding
+> “Code. Exploit. Defend.”
 
 ---
 
-### 🧪 Proyectos en Desarollo
+### 🧪 Proyectos destacados
 
-- 🛡️ [`RepoGuardian`](https://github.com/edemhost/repoguardian): Bot que analiza repositorios en GitHub para detectar posibles amenazas, secretos expuestos y malas prácticas
-- 🤖 [`ExposedBot`](https://github.com/edemhost/exposedbot): Bot de Discord que expone usuarios con comandos automáticos, funciones de staff y moderación
+- 🛡️ [`RepoGuardian`](https://github.com/edemhost/repoguardian): Analizador de seguridad para repositorios GitHub (detección de secretos, configuraciones inseguras y más)
+- 🤖 [`ExposedBot`](https://github.com/edemhost/exposedbot): Bot de Discord con comandos personalizados para exposición de usuarios y herramientas de staff
 
 ---
 
 ### 💻 Stack Técnico
 
 - Lenguajes: `Python`, `Bash`, `PowerShell`, `JavaScript`
-- Seguridad: `Burp Suite`, `Nmap`, `Wireshark`, `Metasploit`
-- Automatización: `Tkinter`, `Discord.py`, `OSINT`, `Regex`, `Docker`
+- Seguridad: `Nmap`, `Wireshark`, `Burp Suite`, `Metasploit`
+- Automatización: `Tkinter`, `Discord.py`, `Docker`, `Regex`, `Git`
 
 ---
 
@@ -50,3 +51,6 @@
 ---
 
 > 🕶️ “El código es el lenguaje del submundo. Lo que construyes puede proteger… o destruir.”
+
+
+
