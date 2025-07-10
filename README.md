@@ -18,7 +18,7 @@
 
 - 🧠 Pentester en crecimiento con foco en seguridad ofensiva y automatización
 - 💻 Desarrollador de herramientas open-source para hardening, análisis y bots
-- 🔐 Amante de la privacidad, el anonimato y la eficiencia
+- 🔐 Intentando automatizar y protejer todo
 
 ---
 
