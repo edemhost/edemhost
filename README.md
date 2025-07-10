@@ -9,45 +9,44 @@
 </pre>
 </p>
 
-
-• They fear the edemhost!  
-• edemhost @github
-
-- 🧰 Software Automation.  
-- 🕸️ Learning Web development.
+<h1 align="center">👾 edemhost | Pentester & Dev</h1>
+<p align="center"><i>“Code. Exploit. Defend.”</i></p>
 
 ---
 
-### 👾 edemhost | Pentester & Dev
+### ⚔️ Sobre mí
 
-> “Code. Exploit. Defend.”
-
----
-
-### 🚀 Proyectos destacados
-
-- 🛡️ [`RepoGuardian`](https://github.com/edemhost/repoguardian): Analizador de seguridad para repositorios GitHub (detección de secretos, configuraciones inseguras y más)
-
-- 😈 [`ExposedBot`](https://github.com/edemhost/exposedbot): Bot de Discord con comandos personalizados para exposición de usuarios y herramientas de staff
+- 🧠 Pentester en crecimiento con foco en seguridad ofensiva y automatización
+- 💻 Desarrollador de herramientas open-source para hardening, análisis y bots
+- 🔐 Amante de la privacidad, el anonimato y la eficiencia
 
 ---
 
-### 🧠 Stack Técnico
+### 🧪 Proyectos destacados
 
-- Lenguajes: `Python`, `Bash`, `PowerShell`, `JavaScript`  
-- Seguridad: `Nmap`, `Wireshark`, `Burp Suite`, `Metasploit`  
-- Automatización: `Tkinter`, `Discord.py`, `Docker`, `Regex`, `Git`
+- 🛡️ [`RepoGuardian`](https://github.com/edemhost/repoguardian): Bot que analiza repositorios en GitHub para detectar posibles amenazas, secretos expuestos y malas prácticas
+- 🤖 [`ExposedBot`](https://github.com/edemhost/exposedbot): Bot de Discord que expone usuarios con comandos automáticos, funciones de staff y moderación
+
+---
+
+### 💻 Stack Técnico
+
+- Lenguajes: `Python`, `Bash`, `PowerShell`, `JavaScript`
+- Seguridad: `Burp Suite`, `Nmap`, `Wireshark`, `Metasploit`
+- Automatización: `Tkinter`, `Discord.py`, `OSINT`, `Regex`, `Docker`
 
 ---
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=edemhost&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edemhost&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edemhost&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edemhost&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 > 🕶️ “El código es el lenguaje del submundo. Lo que construyes puede proteger… o destruir.”
-
 
 
