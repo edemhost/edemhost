@@ -17,15 +17,19 @@
 ### ⚔️ Sobre mí
 
 - 🧠 Pentester en crecimiento con foco en seguridad ofensiva y automatización
-- 💻 Desarrollador de herramientas open-source para hardening, análisis y bots
+- 💻 Desarrollador de herramientas open-source para hardening, OSINT y análisis
+- 🧬 Explorador constante del anonimato, scraping y evasión digital
 
 ---
 
-### 🧪 Proyectos en Desarollo
+### 🧪 Proyecto Principal
 
-- 🔍 [`SocialStalker`](https://github.com/edemhost/socialstalker): Herramienta OSINT para buscar usuarios en redes sociales — uso exclusivo by edemhost
-- 🛡️ [`RepoGuardian`](https://github.com/edemhost/repoguardian): Herramienta de Seguridad Automatizada para tus repositorios
-- 🤖 [`ExposedBot`](https://github.com/edemhost/exposedbot): Bot comunitario de Discord que expone a estafadores,cheaters y scammers
+> 🧠 Actualmente enfocado en el desarrollo y evolución de mi herramienta insignia:
+
+- 🔍 [`SocialStalker`](https://github.com/edemhost/socialstalker):  
+  OSINT scanner avanzado para rastrear presencia digital por nombre de usuario en más de 100 plataformas.  
+  Incluye exportación automática, soporte TOR/proxy, y módulo ético de análisis.
+
 ---
 
 ### 💻 Stack Técnico
@@ -33,7 +37,7 @@
 - Lenguajes: `Python`, `Bash`, `PowerShell`, `JavaScript`
 - Seguridad: `Burp Suite`, `Nmap`, `Wireshark`, `Metasploit`
 - Automatización: `Tkinter`, `Discord.py`, `OSINT`, `Regex`, `Docker`
----
+
 ---
 
 ## 📊 GitHub Stats
@@ -59,5 +63,3 @@
 </p>
 
 > 🕶️ “error”
-
-
