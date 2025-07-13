@@ -26,7 +26,7 @@
 
 > 🧠 Actualmente enfocado en el desarrollo y evolución de mi herramienta insignia:
 
-- 🔍 [`SocialStalker`]([https://github.com/edemhost/socialstalker-showcase]):  
+- 🔍 [`SocialStalker`](https://github.com/edemhost/socialstalker-showcase):  
   OSINT scanner avanzado para rastrear presencia digital por nombre de usuario en más de 100 plataformas.  
   Incluye exportación automática, soporte TOR/proxy, y módulo ético de análisis.
 
