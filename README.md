@@ -14,29 +14,29 @@
 
 ---
 
-### ⚔️ Sobre mí
+### ⚔️ About Me
 
-- 🧠 Pentester en crecimiento con foco en seguridad ofensiva y automatización
-- 💻 Desarrollador de herramientas open-source para hardening, OSINT y análisis
-- 🧬 Explorador constante del anonimato, scraping y evasión digital
+- 🧠 Growing pentester with a focus on offensive security and automation  
+- 💻 Developer of open-source tools for hardening, OSINT, and analysis  
+- 🧬 Constant explorer of anonymity, scraping, and digital evasion  
 
 ---
 
-### 🧪 Proyecto Principal
+### 🧪 Main Project
 
-> 🧠 Actualmente enfocado en el desarrollo y evolución de mi herramienta insignia:
+> 🧠 Currently focused on the development and evolution of my flagship tool:
 
 - 🔍 [`SocialStalker`](https://github.com/edemhost/socialstalker-showcase):  
-  OSINT scanner avanzado para rastrear presencia digital por nombre de usuario en más de 100 plataformas.  
-  Incluye exportación automática, soporte TOR/proxy, y módulo ético de análisis.
+  Advanced OSINT scanner to track digital presence by username across 100+ platforms.  
+  Includes auto-export, TOR/proxy support, and an ethical analysis module.
 
 ---
 
-### 💻 Stack Técnico
+### 💻 Tech Stack
 
-- Lenguajes: `Python`, `Bash`, `PowerShell`, `JavaScript`
-- Seguridad: `Burp Suite`, `Nmap`, `Wireshark`, `Metasploit`
-- Automatización: `Tkinter`, `Discord.py`, `OSINT`, `Regex`, `Docker`
+- Languages: `Python`, `Bash`, `PowerShell`, `JavaScript`  
+- Security: `Burp Suite`, `Nmap`, `Wireshark`, `Metasploit`  
+- Automation: `Tkinter`, `Discord.py`, `OSINT`, `Regex`, `Docker`
 
 ---
 
@@ -48,7 +48,7 @@
 
 ---
 
-## 🧠 Lenguajes más usados
+## 🧠 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edemhost&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
@@ -56,10 +56,11 @@
 
 ---
 
-## 🏆 Trofeos de GitHub
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=edemhost&theme=onedark&margin-w=15&no-bg=true&no-frame=true" alt="Trophies" />
 </p>
 
 > 🕶️ “error”
+
