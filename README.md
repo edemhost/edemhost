@@ -5,7 +5,6 @@
 </p>
 
 <h1 align="center">👾 edemhost | Pentester & Dev</h1>
-<p align="center"><i>“Code. Exploit. Defend.”</i></p>
 
 ---
 
