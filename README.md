@@ -1,28 +1,40 @@
 <p align="center">
-<pre>
-69 68 69 77 72 79 83 84 
-</pre>
+  <pre>
+69 68 69 77 72 79 83 84
+  </pre>
 </p>
 
 <h1 align="center">👾 edemhost | Pentester & Dev</h1>
 
+<p align="center">
+  <a href="https://github.com/edemhost">
+    <img src="https://komarev.com/ghpvc/?username=edemhost&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="views" />
+  </a>
+  <a href="https://github.com/edemhost?tab=followers">
+    <img src="https://img.shields.io/github/followers/edemhost?style=for-the-badge&color=1f6feb" alt="followers" />
+  </a>
+  <a href="https://github.com/edemhost?tab=repositories">
+    <img src="https://img.shields.io/badge/OPEN%20SOURCE-ACTIVE-1f6feb?style=for-the-badge" alt="oss" />
+  </a>
+</p>
+
 ---
 
-### ⚔️ About Me
+## ⚔️ About Me
 
-- 🧠 Growing pentester with a focus on offensive security and automation  
-- 💻 Developer of open-source tools for hardening, OSINT, and analysis  
-- 🧬 Constant explorer of anonymity, scraping, and digital evasion  
+- Pentester en crecimiento con foco en **ofensiva**, **automatización** y **OSINT**.  
+- Dev de herramientas open-source para **hardening**, **evasion** y **análisis**.  
+- Prioridad: **precisión, reproducibilidad** y **ética** en todas las pruebas.
 
 ---
 
-### 🧪 Main Project
+## 🧪 Main Project
 
-> 🧠 Currently focused on the development and evolution of my flagship tool:
+> Proyecto principal en evolución continua:
 
-- 🔍 [`SocialStalker`](https://github.com/edemhost/socialstalker-showcase):  
-  Advanced OSINT scanner to track digital presence by username across 100+ platforms.  
-  Includes auto-export, TOR/proxy support, and an ethical analysis module.
+- 🔍 [`SocialStalker`](https://github.com/edemhost/socialstalker-showcase)  
+  OSINT avanzado por **username** en +100 plataformas.  
+  Export automático, soporte **TOR/Proxy** y módulo de **análisis ético**.
 
 ---
 
