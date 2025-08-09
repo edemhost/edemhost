@@ -47,18 +47,27 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Methodology (mini)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edemhost&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+1. **Recon** → surface mapping (subdominios, servicios, rutas).  
+2. **Enum/OSINT** → user & org profiling, correlación multi-fuente.  
+3. **Exploit** (cuando aplica) → PoC mínima, sin impacto.  
+4. **Reporte** → riesgos, reproducciones y mitigaciones concretas.  
 
 ---
 
-## 🧠 Most Used Languages
+## 📈 Metrics & Dashboards
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edemhost&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edemhost&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=edemhost&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 ---
@@ -68,6 +77,24 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=edemhost&theme=onedark&margin-w=15&no-bg=true&no-frame=true" alt="Trophies" />
 </p>
+
+---
+
+## 🔬 Recent Work (snapshots)
+
+- Hardening scripts para **SSH**, **auditd** y **iptables** (WIP).  
+- Plantillas de **reporting técnico** (Markdown → PDF) con snippets de evidencia.  
+- Módulos de evasión para scraping (rotación, random-UA, backoff exponencial).
+
+---
+
+## 📫 Contact
+
+- Issues/PR en repos públicos.  
+- Para colaboraciones: **abre un Issue** con el tag `collab`.  
+- (Opcional) PGP público: *añádelo aquí si usas cifrado*.
+
+---
 
 > 🕶️ “error”
 
