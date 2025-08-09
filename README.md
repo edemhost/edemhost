@@ -64,8 +64,6 @@
   <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge" />
 </p>
 
-**Focus:** Recon, explotación controlada, scraping, fingerprinting, automatización de flujos y reporting claro.
-
 ---
 
 ## 📈 Metrics & Dashboards
