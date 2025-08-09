@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Status-Always%20Learning-1abc9c?style=for-the-badge" />
 </p>
 
-- Desarollador de herramientas con foco en ofensivo, automatización y OSINT.
+- Desarrollador de herramientas centradas en ofensiva, automatización y OSINT.
   
 ---
 
