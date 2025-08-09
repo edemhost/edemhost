@@ -80,21 +80,5 @@
 
 ---
 
-## 🔬 Recent Work (snapshots)
-
-- Hardening scripts para **SSH**, **auditd** y **iptables** (WIP).  
-- Plantillas de **reporting técnico** (Markdown → PDF) con snippets de evidencia.  
-- Módulos de evasión para scraping (rotación, random-UA, backoff exponencial).
-
----
-
-## 📫 Contact
-
-- Issues/PR en repos públicos.  
-- Para colaboraciones: **abre un Issue** con el tag `collab`.  
-- (Opcional) PGP público: *añádelo aquí si usas cifrado*.
-
----
-
 > 🕶️ “error”
 
