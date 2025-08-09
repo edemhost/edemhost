@@ -36,12 +36,6 @@
 
 ## 🧪 Main Project
 
-<p>
-  <img src="https://img.shields.io/github/stars/edemhost/socialstalker-showcase?style=for-the-badge&color=yellow" />
-  <img src="https://img.shields.io/github/last-commit/edemhost/socialstalker-showcase?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/license/edemhost/socialstalker-showcase?style=for-the-badge&color=green" />
-</p>
-
 - 🔍 [`SocialStalker`](https://github.com/edemhost/socialstalker-showcase)  
   OSINT avanzado por **username** en +100 plataformas.  
   Export automático, soporte **TOR/Proxy** y módulo de **análisis ético**.
