@@ -26,11 +26,12 @@
 
 ---
 
-### 💻 Tech Stack
+### 🛠 Tech Stack
 
-- Languages: `Python`, `Bash`, `PowerShell`, `JavaScript`  
-- Security: `Burp Suite`, `Nmap`, `Wireshark`, `Metasploit`  
-- Automation: `Tkinter`, `Discord.py`, `OSINT`, `Regex`, `Docker`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,javascript,html,css,docker,regex" /><br>
+  <img src="https://skillicons.dev/icons?i=burpsuite,nmap,wireshark,metasploit,linux" />
+</p>
 
 ---
 
