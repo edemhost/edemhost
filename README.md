@@ -28,10 +28,8 @@
   <img src="https://img.shields.io/badge/Status-Always%20Learning-1abc9c?style=for-the-badge" />
 </p>
 
-- Pentester en crecimiento con foco en **ofensiva**, **automatización** y **OSINT**.  
-- Dev de herramientas open-source para **hardening**, **evasion** y **análisis**.  
-- Prioridad: **precisión, reproducibilidad** y **ética** en todas las pruebas.
-
+- Desarollador de herramientas con foco en ofensivo, automatización y OSINT.
+  
 ---
 
 ## 🧪 Main Project
