@@ -68,25 +68,6 @@
 
 ---
 
-## 🧰 Featured Tools
-
-- `Tkinter` GUIs livianas para PoC rápidas  
-- `Discord.py` para bots de alerta/telemetría  
-- Pipelines con `requests/asyncio`, parsers con `regex`, contenedores con `Docker`  
-
-> Si algo no se puede medir o reproducir, no sirve. Scripts con **logs**, **flags** y **timeout**.
-
----
-
-## 📚 Methodology (mini)
-
-1. **Recon** → surface mapping (subdominios, servicios, rutas).  
-2. **Enum/OSINT** → user & org profiling, correlación multi-fuente.  
-3. **Exploit** (cuando aplica) → PoC mínima, sin impacto.  
-4. **Reporte** → riesgos, reproducciones y mitigaciones concretas.  
-
----
-
 ## 📈 Metrics & Dashboards
 
 <p align="center">
@@ -108,20 +89,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=edemhost&theme=onedark&margin-w=15&no-bg=true&no-frame=true" alt="Trophies" />
 </p>
-
----
-
-## 📫 Contact
-
-<p>
-  <img src="https://img.shields.io/badge/PGP-Available-3b82f6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Collab-Open-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Email-Request%20via%20Issue-orange?style=for-the-badge" />
-</p>
-
-- Issues/PR en repos públicos.  
-- Para colaboraciones: **abre un Issue** con el tag `collab`.  
-- (Opcional) PGP público: *añádelo aquí si usas cifrado*.
 
 ---
 
