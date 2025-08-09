@@ -22,6 +22,12 @@
 
 ## ⚔️ About Me
 
+<p>
+  <img src="https://img.shields.io/badge/Role-Pentester-ff4757?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-1abc9c?style=for-the-badge" />
+</p>
+
 - Pentester en crecimiento con foco en **ofensiva**, **automatización** y **OSINT**.  
 - Dev de herramientas open-source para **hardening**, **evasion** y **análisis**.  
 - Prioridad: **precisión, reproducibilidad** y **ética** en todas las pruebas.
@@ -30,7 +36,11 @@
 
 ## 🧪 Main Project
 
-> Proyecto principal en evolución continua:
+<p>
+  <img src="https://img.shields.io/github/stars/edemhost/socialstalker-showcase?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/last-commit/edemhost/socialstalker-showcase?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/license/edemhost/socialstalker-showcase?style=for-the-badge&color=green" />
+</p>
 
 - 🔍 [`SocialStalker`](https://github.com/edemhost/socialstalker-showcase)  
   OSINT avanzado por **username** en +100 plataformas.  
@@ -38,12 +48,33 @@
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,javascript,html,css,docker,regex" /><br>
-  <img src="https://skillicons.dev/icons?i=burpsuite,nmap,wireshark,metasploit" />
+  <!-- Lenguajes / Core -->
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,js,html,css" /><br/>
+  <!-- Sec / Infra -->
+  <img src="https://skillicons.dev/icons?i=linux,docker,regex" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?logo=burpsuite&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nmap-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge" />
+</p>
+
+**Focus:** Recon, explotación controlada, scraping, fingerprinting, automatización de flujos y reporting claro.
+
+---
+
+## 🧰 Featured Tools
+
+- `Tkinter` GUIs livianas para PoC rápidas  
+- `Discord.py` para bots de alerta/telemetría  
+- Pipelines con `requests/asyncio`, parsers con `regex`, contenedores con `Docker`  
+
+> Si algo no se puede medir o reproducir, no sirve. Scripts con **logs**, **flags** y **timeout**.
 
 ---
 
@@ -80,5 +111,18 @@
 
 ---
 
-> 🕶️ “error”
+## 📫 Contact
 
+<p>
+  <img src="https://img.shields.io/badge/PGP-Available-3b82f6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Collab-Open-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Email-Request%20via%20Issue-orange?style=for-the-badge" />
+</p>
+
+- Issues/PR en repos públicos.  
+- Para colaboraciones: **abre un Issue** con el tag `collab`.  
+- (Opcional) PGP público: *añádelo aquí si usas cifrado*.
+
+---
+
+> 🕶️ “error”
